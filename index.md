@@ -1,3 +1,0 @@
-# Labs
-
-Welcome to Labs.
